@@ -3,6 +3,9 @@
   padding: 10px;
   font-family: sans-serif;
 }
+body{
+  margin-left: 100px;
+}
 .salom1 {
   background-color: #fff;
   border-bottom: 1px solid #eaeaea;
